@@ -18,3 +18,4 @@ a combination of screenshots and copyable screens for commands would be helpful
 also, explain what "git remote" does -- that sets the remote branch? do you have to use it every time?
 
 what does "Changes not staged for commit" mean? how do you stage?
+ -- OK, so you have to use git add again, apparently, for each changed file
